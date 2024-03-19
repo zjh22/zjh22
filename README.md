@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zjh22
+- 👋 Hi, I’m @zjh22, I'm an undergraduate student in HUST
 - 👀 I’m interested in machine learning and deep learning, especially in Python
 - 🌱 I’m currently learning data analysis and coding by Python
-- 💞️ I’m looking to collaborate on project on Fintech
+- 💞️ I’m looking to collaborate on project related to Fintech
 - 📫 You can contact with me <1529534164@qq.com>
 
 
