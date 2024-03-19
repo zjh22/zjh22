@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and deep learning, especially in Python
 - 🌱 I’m currently learning data analysis and coding by Python
 - 💞️ I’m looking to collaborate on project related to Fintech
-- 📫 You can contact with me <1529534164@qq.com>
+- 📫 You can contact with me by [GMAIL]<zhangjinhongnbnb@gmail.com>
 
 
 <!---
