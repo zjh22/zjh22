@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zjh22, I'm an undergraduate student in HUST
-- 👀 I’m interested in machine learning and deep learning, especially in business situation.
+- 👀 I’m interested at machine learning and deep learning, especially in business situation.
 - 🌱 I’m currently learning data analysis and programming by Python
 - 💞️ I’m looking to collaborate on project related to Fintech, or we can collaborate on kaggle competitions, which I am trying to get prize now.
 - 📫 You can contact with me by [GMAIL](<zhangjinhongnbnb@gmail.com>)
